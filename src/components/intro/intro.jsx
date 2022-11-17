@@ -6,13 +6,13 @@ const Intro = () => {
             <div className="i-left">
                 <div className="i-left-wrapper">
                       <h2 className="i-intro">hello, my name is</h2>
-                      <h1 className="i-name"> MD moosa sohail</h1>
+                      <h1 className="i-name"> MD Moosa Sohail</h1>
                       <div className="i-title">
                         <div className="i-title-wrapper">
-                            <div className="i-title-item">web developer</div>
-                            <div className="i-title-item">manual tester</div>
-                            <div className="i-title-item">content creator</div>
-                            <div className="i-title-item">writer</div>
+                            <div className="i-title-item">Web Developer</div>
+                            <div className="i-title-item">Manual Tester</div>
+                            <div className="i-title-item">Content Creator</div>
+                            <div className="i-title-item">Writer</div>
                         </div>
                       </div>
                       <p className="i-desc">I started my coding journey almost exactly a year ago and now
